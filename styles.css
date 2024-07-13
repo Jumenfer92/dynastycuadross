@@ -1,0 +1,183 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#mapa {
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+    border: 2px solid black;
+    position: relative;
+    background-color: #ffffff; /* Cambiar el color de fondo según sea necesario */
+}
+
+.provincia {
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid black; /* Borde para mostrar los límites de la provincia */
+}
+
+/* Provincia 1 */
+#provincia1 {
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 2 */
+#provincia2 {
+    top: 50px;
+    left: 160px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 3 */
+#provincia3 {
+    top: 50px;
+    left: 270px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 4 */
+#provincia4 {
+    top: 50px;
+    left: 380px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 5 */
+#provincia5 {
+    top: 50px;
+    left: 490px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 6 */
+#provincia6 {
+    top: 110px;
+    left: 50px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 7 */
+#provincia7 {
+    top: 110px;
+    left: 160px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 8 */
+#provincia8 {
+    top: 110px;
+    left: 270px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 9 */
+#provincia9 {
+    top: 110px;
+    left: 380px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 10 */
+#provincia10 {
+    top: 110px;
+    left: 490px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 11 */
+#provincia11 {
+    top: 170px;
+    left: 50px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 12 */
+#provincia12 {
+    top: 170px;
+    left: 160px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 13 */
+#provincia13 {
+    top: 170px;
+    left: 270px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 14 */
+#provincia14 {
+    top: 170px;
+    left: 380px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 15 */
+#provincia15 {
+    top: 170px;
+    left: 490px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 16 */
+#provincia16 {
+    top: 230px;
+    left: 50px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 17 */
+#provincia17 {
+    top: 230px;
+    left: 160px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 18 */
+#provincia18 {
+    top: 230px;
+    left: 270px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 19 */
+#provincia19 {
+    top: 230px;
+    left: 380px;
+    width: 100px;
+    height: 60px;
+}
+
+/* Provincia 20 */
+#provincia20 {
+    top: 230px;
+    left: 490px;
+    width: 100px;
+    height: 60px;
+}
+
+#controles {
+    margin-top: 20px;
+}
