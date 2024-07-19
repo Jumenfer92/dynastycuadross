@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function tirarDado() {
 	let min = 1;
 	let max = 6;
-	let numero = Math.floor(Math.random() * (max - min) + min;
+	let numero = Math.floor(Math.random() * (max - min) + min);
 	console.log(numero);
 	return numero;
 }
